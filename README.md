@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Education](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#education) 
 - [Certificates]
-- [Contact]
+- [Contact](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#contacts)
 
 
 
@@ -30,8 +30,20 @@ July 2025 - July 2027
 BCA(General)
 June 2020 - May 2023
 
+
+## Certificates
+ -[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) (oct 2025)(Coursera-IBM)
+ -[Data analysis and Visualization with power BI](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/5) (Oct 20225) (Coursera-Microsoft)
+ 
+## Internship                                                                                                                                                          -Delliote Australia-Data Analytics Job Simulation                                                                                             	
+-Completed a Deloitte job simulation involving data analysis and forensic
+ technology .
+-	Created a data dashboard using Tableau.
+-	Used Excel to classify data and draw business conclusion (https://lnkd.in/gt4iUZiD)
+
+
 ##  Contacts
 - LinkedIn: [@SaiManaswiniM](https://www.linkedin.com/in/sai-manaswini-mulukutla-510a09305/)
 - Email: manaswinisai2002@gmail.com
 
-  #
+  
