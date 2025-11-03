@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 
-- [Education] 
+- [Education](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#education) 
 - [Certificates]
 - [Contact]
 
@@ -30,7 +30,7 @@ July 2025 - July 2027
 BCA(General)
 June 2020 - May 2023
 
-#### Contacts
+##  Contacts
 - LinkedIn: [@SaiManaswiniM](https://www.linkedin.com/in/sai-manaswini-mulukutla-510a09305/)
 - Email: manaswinisai2002@gmail.com
 
