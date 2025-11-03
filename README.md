@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Education](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#education) 
 - [Certificates](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#contacts)
-- [Internship](
+- [Internship](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#internship)
 
 
 
