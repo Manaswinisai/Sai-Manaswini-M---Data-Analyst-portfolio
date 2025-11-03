@@ -3,4 +3,4 @@ Hi, I'm Sai Manaswini M, I have an analytical background in Computer Science and
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-[About](https://github.com/Sai Manaswini M/Data-Analysis-Portfolio/blob/main/README.md#about)
+[About](https://github.com/SaiManaswiniM/Data-Analysis-Portfolio/blob/main/README.md#about)
