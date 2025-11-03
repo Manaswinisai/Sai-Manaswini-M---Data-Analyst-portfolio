@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Education](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#education) 
 - [Certificates](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#contacts)
-
+- [Internship](
 
 
 
@@ -37,7 +37,7 @@ June 2020 - May 2023
  - [Data analysis and Visualization with power BI](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/5)(Oct 20225) (Coursera-Microsoft)
  
 ## Internship    
-- Delliote Australia-Data Analytics Job Simulation                                                                                             	
+## Delliote Australia-Data Analytics Job Simulation                                                                                             	
 - Completed a Deloitte job simulation involving data analysis and forensic
  technology .
 -	Created a data dashboard using Tableau.
