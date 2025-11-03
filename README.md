@@ -32,12 +32,13 @@ June 2020 - May 2023
 
 
 ## Certificates
- -[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) (oct 2025)(Coursera-IBM)
+ - [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) (oct 2025)(Coursera-IBM)
  
- -[Data analysis and Visualization with power BI](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/5)(Oct 20225) (Coursera-Microsoft)
+ - [Data analysis and Visualization with power BI](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/5)(Oct 20225) (Coursera-Microsoft)
  
-## Internship                                                                                                                                                          -Delliote Australia-Data Analytics Job Simulation                                                                                             	
--Completed a Deloitte job simulation involving data analysis and forensic
+## Internship    
+- Delliote Australia-Data Analytics Job Simulation                                                                                             	
+- Completed a Deloitte job simulation involving data analysis and forensic
  technology .
 -	Created a data dashboard using Tableau.
 -	Used Excel to classify data and draw business conclusion (https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#certificates)
