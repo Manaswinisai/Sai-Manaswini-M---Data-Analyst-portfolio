@@ -4,7 +4,18 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md)
+- [Portfolio Projects]
+- Python
+- SQL
+- Excel / Google Sheets
+- Tableau-
+- Power BI
 
+
+
+- [Education] 
+- [Certificates]
+- [Contact]
 
 
 
