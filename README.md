@@ -41,7 +41,8 @@ June 2020 - May 2023
 - Completed a Deloitte job simulation involving data analysis and forensic
  technology .
 -	Created a data dashboard using Tableau.
--	Used Excel to classify data and draw business conclusion (https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#certificates)
+-	Used Excel to classify data and draw business conclusion
+-	[Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_LPdanDP8yFcX27RsJ_1761763485614_completion_certificate.pdf)
 
 
 ##  Contacts
