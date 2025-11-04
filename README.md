@@ -8,8 +8,10 @@ This is a repository to showcase skills, share projects and track my progress in
 - Python
 - SQL
 - Excel / Google Sheets
-- Tableau-
+- Tableau
 - Power BI
+     - [Adventure Works Summary report](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Adventure%20Works%20Executive%20Summary%20BI.docx)
+     - [Adventure works Order,customer and product sales report](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Adventure%20works%20Order%20Report%20BI.docx)
 
 
 
