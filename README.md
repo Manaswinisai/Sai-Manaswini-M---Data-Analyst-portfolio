@@ -22,6 +22,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ##Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+
 #####Working with a real world data-set using SQL and Python
 **Code:** [Working with a real world data-set using SQL and Python](https://jupyterlabnext-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/manaswinisai/notebooks/DB0201EN/labs/FinalModule_Coursera_V5/Untitled3.ipynb)
 
