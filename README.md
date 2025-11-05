@@ -7,6 +7,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects]
 - Python
 - SQL
+    -[Working with a real world data-set using SQL and Python](https://jupyterlabnext-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/manaswinisai/notebooks/DB0201EN/labs/FinalModule_Coursera_V5/Untitled3.ipynb)
 - Excel / Google Sheets
 - Tableau
 - Power BI
