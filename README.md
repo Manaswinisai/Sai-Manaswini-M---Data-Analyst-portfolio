@@ -23,17 +23,17 @@ This is a repository to showcase skills, share projects and track my progress in
 ##Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 #####Working with a real world data-set using SQL and Python
-**Code:** [](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [Working with a real world data-set using SQL and Python](https://jupyterlabnext-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/manaswinisai/notebooks/DB0201EN/labs/FinalModule_Coursera_V5/Untitled3.ipynb)
 
 **Goal:** To determine the dataa base catlog system to retrive table and column metadata.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** The project focused on analyzing a dataset of The city of Chicago released a dataset showing all school level performance data used to create School Report Cards for the 2011-2012 school year.
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, Pandas, Numpy, Matplotlib,SQL,jupyter
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+
 
 
 ##  Education
