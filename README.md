@@ -20,7 +20,20 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contact](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#contacts)
 - [Internship](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#internship)
 
+##Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+#####Working with a real world data-set using SQL and Python
+**Code:** [](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
+**Goal:** To determine the dataa base catlog system to retrive table and column metadata.
+
+**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 
 ##  Education
