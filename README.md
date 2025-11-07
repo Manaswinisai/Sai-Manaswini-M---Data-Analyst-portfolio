@@ -6,6 +6,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md)
 - [Portfolio Projects](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#portfolio-projects)
 - Python
+   -[Extracting and visulaizing data using python](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Extracting%20and%20visualizing%20stock%20data.ipynb)
 - SQL
     - [Working with a real world data-set using SQL and Python](https://jupyterlabnext-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/manaswinisai/notebooks/DB0201EN/labs/FinalModule_Coursera_V5/Untitled3.ipynb)
 - Excel / Google Sheets
