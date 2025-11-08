@@ -8,7 +8,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - Python
    - [Extracting and visulaizing data using python](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Extracting%20and%20visualizing%20stock%20data.ipynb)
 - SQL
-    - [Chicago city portal](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/edit/main/Chicago%20city%20portal.ipynb)
+    - [Chicago city portal](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Chicago%20city%20portal.ipynb)
+    - [Chicago Progress report cards](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Chicago%20progress%20report%20cards.ipynb)
 - Excel / Google Sheets
 - Tableau
 - Power BI
@@ -29,7 +30,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ##### Working with a real world data-set using SQL and Python
 
-**Code:** [Working with a real world data-set using SQL and Python](https://jupyterlabnext-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/manaswinisai/notebooks/DB0201EN/labs/FinalModule_Coursera_V5/Untitled3.ipynb)
+**Code:** [Chicago Progress report cards](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Chicago%20progress%20report%20cards.ipynb)
 
 **Goal:** To determine the dataa base catlog system to retrive table and column metadata.
 
