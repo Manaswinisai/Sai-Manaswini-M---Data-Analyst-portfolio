@@ -55,6 +55,19 @@ This dataset contains a selection of six socioeconomic indicators of public heal
 **Technology:** Python, Pandas, Numpy, Matplotlib,SQL lite,jupyter,myssql
 
 
+##### Extracting and visulaizing data using python
+
+**Code:** [Extracting and visulaizing data using python](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Extracting%20and%20visualizing%20stock%20data.ipynb)
+
+**Goal:** To Define a Function that Makes a Graph,Use yfinance to Extract Stock Data,
+
+**Description:** Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. I
+
+**Skills:** Plotting graph,Ectracting data using yfinance
+
+**Technology:** Python, Pandas, Numpy, Matplotlib,jupyter,seaborn,yfinance
+
+
 ##  Education
 - Bharati Vidyapeeth University(Distance program) , Pune: 
 MBA(Business Analysis)
