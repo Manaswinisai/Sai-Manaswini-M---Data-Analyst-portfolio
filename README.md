@@ -28,19 +28,28 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 
-##### Working with a real world data-set using SQL and Python
+##### Chicago Progress report cards
 
 **Code:** [Chicago Progress report cards](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Chicago%20progress%20report%20cards.ipynb)
 
-**Goal:** To determine the dataa base catlog system to retrive table and column metadata.
+**Goal:** To Retrieve metadata about tables and columns and query data from mixed case columns.
 
-**Description:** The project focused on analyzing a dataset of The city of Chicago released a dataset showing all school level performance data used to create School Report Cards for the 2011-2012 school year.
+**Description:** The city of Chicago released a dataset showing all school level performance data used to create School Report Cards for the 2011-2012 school year.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** database functions, query columns,sort, limit, and order result sets, worked with multiple tables.
 
-**Technology:** Python, Pandas, Numpy, Matplotlib,SQL,jupyter
+**Technology:** Python, Pandas, Numpy, Matplotlib,SQL lite,jupyter,myssql
 
+**Code:** [Chicago city portal](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Chicago%20city%20portal.ipynb)
 
+**Goal:** To determine variables in the socioeconomic indicators dataset and do some basic analysis with Python.
+
+**Description:** The city of Chicago released a dataset of socioeconomic data to the Chicago City Portal.
+This dataset contains a selection of six socioeconomic indicators of public health significance and a “hardship index,” for each Chicago community area, for the years 2008 – 2012.
+
+**Skills:** exploratory data analysis using SQL and python visualization tools,data visualization.
+
+**Technology:** Python, Pandas, Numpy, Matplotlib,SQL lite,jupyter,myssql
 
 
 ##  Education
