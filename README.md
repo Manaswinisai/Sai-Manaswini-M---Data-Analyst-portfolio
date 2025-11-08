@@ -40,6 +40,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Matplotlib,SQL lite,jupyter,myssql
 
+
+##### Chicago city portal
+
 **Code:** [Chicago city portal](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Chicago%20city%20portal.ipynb)
 
 **Goal:** To determine variables in the socioeconomic indicators dataset and do some basic analysis with Python.
