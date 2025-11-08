@@ -9,7 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
    - [Extracting and visulaizing data using python](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Extracting%20and%20visualizing%20stock%20data.ipynb)
 - SQL
     - [Chicago city portal](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Chicago%20city%20portal.ipynb)
-    - [Chicago Progress report cards](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/Chicago%20progress%20report%20cards.ipynb)
+    - [Chicago Progress report cards](https://github.com/Manaswinisai/Sai-Manaswini-M---Data-Analyst-portfolio/blob/main/README.md#chicago-progress-report-cards)
 - Excel / Google Sheets
 - Tableau
 - Power BI
